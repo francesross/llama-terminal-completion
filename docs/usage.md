@@ -26,3 +26,4 @@ Notes and usage details for llama-terminal-completion.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- clarify the setup steps
